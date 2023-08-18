@@ -21,10 +21,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-#### STUDENT EX#1:
-<img src='https://i.imgur.com/nmvew8g.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
-
-
 #### EXAMPLE #1:
 <!--- 
 EXAMPLE #1: <img src='101prework.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
