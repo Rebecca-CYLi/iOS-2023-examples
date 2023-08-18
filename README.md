@@ -39,9 +39,9 @@ EXAMPLE #2: ![GIF](101prework.gif)
 
 
 #### EXAMPLE #3:
-[Imgur](https://i.imgur.com/CEiVOFQ.gif)
+[](https://i.imgur.com/CEiVOFQ.gif)
 <!--- <img src='https://i.imgur.com/CEiVOFQ.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />  --->
-![Imgur](https://i.imgur.com/CEiVOFQ.gif)
+![](https://i.imgur.com/CEiVOFQ.gif)
 
 ### CP Example
 ![](https://i.imgur.com/JL1snRo.gif)
