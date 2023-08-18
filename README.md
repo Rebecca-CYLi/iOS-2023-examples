@@ -43,6 +43,10 @@ EXAMPLE #2: ![GIF](101prework.gif)
 <!--- <img src='https://i.imgur.com/CEiVOFQ.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />  --->
 ![](https://i.imgur.com/nsRCmbX.gif)
 
+
+#### EXAMPLE #3.5:
+<img src='https://i.imgur.com/nsRCmbX.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
+
 ### CP Example
 ![](https://i.imgur.com/JL1snRo.gif)
 
