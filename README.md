@@ -39,11 +39,12 @@ EXAMPLE #2: ![GIF](101prework.gif)
 
 
 #### EXAMPLE #3:
-<img src='https://i.imgur.com/CEiVOFQ.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' /> 
-<!--- ![Imgur](https://i.imgur.com/CEiVOFQ.gif) --->
+<!--- <img src='https://i.imgur.com/CEiVOFQ.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />  --->
+![Imgur](https://i.imgur.com/CEiVOFQ.gif)
 
+[img]https://i.imgur.com/CEiVOFQ.gif[/img]
 
-
+[url=https://imgur.com/CEiVOFQ][img]http://i.imgur.com/CEiVOFQ.gif[/img][/url]
 
 
 <!-- Replace this with whatever GIF tool you used! -->
