@@ -37,6 +37,7 @@ EXAMPLE #2: ![GIF](101prework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+[Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
