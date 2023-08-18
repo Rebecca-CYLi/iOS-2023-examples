@@ -28,7 +28,8 @@ EXAMPLE #1: <img src='101prework.gif' title='Video Walkthrough' width='350' alt=
 
 
 
-##### EXAMPLE #2: ![GIF](101prework.gif)
+#### EXAMPLE #2: 
+GIF: <!--- ![GIF](101prework.gif) --->
 ![GIF](101prework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
