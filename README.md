@@ -23,6 +23,8 @@ Here's a walkthrough of implemented user stories:
 
 #### STUDENT EX#1:
 <img src='https://i.imgur.com/hxXcv8T.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
+[Imgur](https://i.imgur.com/hxXcv8T.gifv)
+
 
 #### EXAMPLE #1:
 <!--- 
@@ -44,6 +46,7 @@ EXAMPLE #2: ![GIF](101prework.gif)
 
 #### EXAMPLE #3.5:
 <img src='https://i.imgur.com/nsRCmbX.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
+
 
 ### CP Example
 ![](https://i.imgur.com/JL1snRo.gif)
