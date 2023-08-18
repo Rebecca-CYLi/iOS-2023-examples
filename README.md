@@ -35,9 +35,16 @@ EXAMPLE #2: ![GIF](101prework.gif)
 --->
 ![GIF](101prework.gif)
 
+
+
+
 #### EXAMPLE #3:
 <!--- <img src='https://i.imgur.com/CEiVOFQ.gifv' title='Video Walkthrough' width='350' alt='Video Walkthrough' /> --->
-![Imgur](https://i.imgur.com/CEiVOFQ.gifv)
+![Imgur](https://i.imgur.com/CEiVOFQ.gif)
+
+
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
