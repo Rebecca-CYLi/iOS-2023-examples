@@ -23,7 +23,6 @@ Here's a walkthrough of implemented user stories:
 
 
 #### Student Ex:
-<a href='https://i.imgur.com/BsBcOEC.gif'> Video WT</a>
 
 
 
